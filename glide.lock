@@ -1,0 +1,8 @@
+hash: aa64ad70d09f385a786c4e2b6e684a1da08b70b3ce4b656db4bcc7aad5341f91
+updated: 2016-03-07T13:59:37.800390923-05:00
+imports:
+- name: github.com/hopkinsth/go-ruler
+  version: 6e651a652de80d6923a6b7fa6de1666d7b470559
+- name: github.com/tj/go-debug
+  version: ff4a55a20a86994118644bbddc6a216da193cc13
+devImports: []

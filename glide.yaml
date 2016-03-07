@@ -1,0 +1,3 @@
+package: github.com/RedVentures/decree-lite
+import:
+- package: github.com/hopkinsth/go-ruler

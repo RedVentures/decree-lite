@@ -1,0 +1,226 @@
+{
+  "session": {
+  	"settings": {
+  		"id": "233",
+  		"integrations": {
+  		    "client": "Directstar",
+  		    "framework": "RopeStandard",
+  		    "test": false
+  		},
+  		"meta" : {
+  			"marketingCodeId" : 1,
+  			"interactionId" : 147269265,
+  			"ip": "10.0.2.2"
+  		},
+  		"acceptedServices": [
+  		    "directstar"
+  		],
+  		"declinedServices": [
+  			"att"
+  		]
+  	},
+  	"request": {
+  		"serviceAddress": {
+  			"address1": "15 Decatur st se",
+  			"city": "Atlanta",
+  			"state": "GA",
+  			"zipCode": "30303",
+  			"homeAlarm": "1"
+  		},
+  		"contact": {
+  			"firstName": "jerry",
+  			"lastName": "iikopla",
+  			"phone": "3349992288",
+  			"email": "s@go.com",
+  			"emailConfirm": "s@go.com"
+  		}
+  	},
+  	"response": {
+      "validationIssues": {},
+      "status": {},
+      "hashes": {
+        "declinedServicesHash": "c67989d2da1d2e2a8e10a8ce517ee049",
+        "acceptedServicesHash": "c040c690d8d6ceb1b1e30ee05cc18668",
+        "serviceAddress": "325598e798982837dc67d6a4ca5b7161"
+      },
+      "serviceAddress": {
+        "directstar": {
+          "externalAddressId": null,
+          "contactId": "NULL",
+          "primary": true,
+          "ownership": "own",
+          "addressType": "install",
+          "landlinePhone": null,
+          "address": "15 Decatur st se",
+          "address2": null,
+          "streetNumber": null,
+          "streetName": null,
+          "streetPreDirection": null,
+          "streetPostDirection": null,
+          "streetSuffix": null,
+          "unitType": null,
+          "unitValue": null,
+          "structureType": null,
+          "structureValue": null,
+          "elevationType": null,
+          "elevationValue": null,
+          "county": null,
+          "countyCode": null,
+          "city": "Atlanta",
+          "state": "GA",
+          "province": null,
+          "zip": "30303",
+          "zip4": null,
+          "postCode": null,
+          "postal": null,
+          "country": null,
+          "hash": "5f50cf4f6dbcfb8b267d8cba04ee9fec",
+          "dateAdded": "2015-12-17",
+          "dateTimeAdded": "2015-12-17 09:34:30",
+          "lastUpdated": "2015-12-17 10:34:17",
+          "_self": null,
+          "id": "706562"
+        }
+      },
+      "contact": null,
+      "serviceability": {
+        "directstar": {
+          "serviceableId": "457463",
+          "companyId": "1",
+          "contactId": null,
+          "addressId": "706562",
+          "gamut": false,
+          "addressHash": "5f50cf4f6dbcfb8b267d8cba04ee9fec",
+          "callId": null,
+          "ropeId": "R53e53b5385716374600856hrePZTCZ6",
+          "serviceable": "1",
+          "maybeServiceable": null,
+          "requestCompanyId": "61",
+          "processTime": null,
+          "transactionId": null,
+          "metaObject": {
+            "existingContactId": null,
+            "fipsCountyCode": null,
+            "existingCustomer": null,
+            "serviceableMetaId": "457440",
+            "serviceableId": "457463",
+            "addressMatches": null,
+            "addressFixSuggestion": null,
+            "externalSessionId": null,
+            "serviceCheckType": "NEW",
+            "recheckType": null,
+            "address": null,
+            "hash": "59e087e69adf7dbc59830ad82f8ca88e",
+            "dateAdded": "2015-12-17",
+            "dateTimeAdded": "2015-12-17 09:34:31",
+            "lastUpdated": "2015-12-17 09:34:31",
+            "_self": null
+          },
+          "dateAdded": "2015-12-17",
+          "dateTimeAdded": "2015-12-17 09:34:31",
+          "lastUpdated": "2015-12-17 09:34:31",
+          "_self": null
+        }
+      },
+      "selectable": {
+        "product": {
+          "directstar": {
+            "2493474312001": {
+              "id": 2493474312001,
+              "name": "BASIC CHOICE™",
+              "description": "Includes over 90 channels of entertainment, music, news, variety and public interest. International programming a la carte service required for selection.",
+              "nameKey": null,
+              "price": 17.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "1574706511001": {
+              "id": 1574706511001,
+              "name": "PREFERRED CHOICE™",
+              "description": "PREFERRED CHOICE™",
+              "nameKey": null,
+              "price": 19.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "3265028261001": {
+              "id": 3265028261001,
+              "name": "PREMIER™",
+              "description": "Choose from over 265 top channels, including 31 premium movie channels and over 35 specialty sports channels.",
+              "nameKey": null,
+              "price": 99.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "3625656404001": {
+              "id": 3625656404001,
+              "name": "SELECT™",
+              "description": "Over 70 video channels and more than 50 audio channels comprise the SELECT package. An ideal entry level package that provides a select number of quality basic channels including sports, religious, entertainment and news offerings at a value price.",
+              "nameKey": null,
+              "price": 29.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "3641387213001": {
+              "id": 3641387213001,
+              "name": "FAMILY™",
+              "description": "Over 45 channels of family programming suitable for all ages, including local channels. Get a variety of educational, religious and entertainment programming the whole family will love.",
+              "nameKey": null,
+              "price": 29.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "3415074224001": {
+              "id": 3415074224001,
+              "name": "XTRA",
+              "description": "Over 215 of our most popular television channels, including the best in movies, sports, music, documentary, educational, and specialty programming. This package includes most of the channels from the CHOICE package plus hard-to-find channels you won’t find everywhere else, such as Documentary Channel, BIO, H2, NBA TV, HUB, Nat Geo WILD, WGN America and Style Network. SonicTap Music channels are included, as well as local programming, all in 100 digital-quality picture and sound.",
+              "nameKey": null,
+              "price": 44.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "3429973323001": {
+              "id": 3429973323001,
+              "name": "ULTIMATE",
+              "description": "ULTIMATE includes the same channels as the  XTRA package, over 200 great networks, plus an extra 11 movie channels including: Encore Action, Encore Drama, Encore East, Encore Love, Encore Mystery, Encore WAM, Encore West, Encore Westerns, Sundance, The Movie Channel East & West. Your favorite movies from multiple genres to watch again and again. If you love movies and want a great wide variety of basic channels, the  ULTIMATE package is the base package for you.",
+              "nameKey": null,
+              "price": 49.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "4294468998001": {
+              "id": 4294468998001,
+              "name": "ENTERTAINMENT",
+              "description": "Over 140 channels of movies, entertainment and basic sports. Featuring some of the most popular channels in entertainment with favorites like Disney, ESPN, Hallmark Channel, Lifetime, TNT, Discovery, Nickelodeon, TBS, and USA. The most valued entertainment package including a wide variety of channels for every member of the family.",
+              "nameKey": null,
+              "price": 34.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            },
+            "488109095001": {
+              "id": 488109095001,
+              "name": "CHOICE™",
+              "description": "Featuring over 150 top channels, including movies, sports, family favorite, and 50 XM Satellite Radio channels, as well as local channels. A great value in television entertainment, all in 100% digital-quality picture and sound.",
+              "nameKey": null,
+              "price": 39.99,
+              "type": "video",
+              "subType": "package",
+              "metaData": null
+            }
+          }
+        }
+      },
+      "order": null,
+      "selection": null,
+      "creditResult": null
+    }   
+  }
+}
